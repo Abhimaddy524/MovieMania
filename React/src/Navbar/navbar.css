@@ -1,0 +1,59 @@
+
+
+.boletonav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-image: url("https://pixner.net/boleto/demo/assets/images/banner/banner01.jpg"); */
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.tob{
+    color: red;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn-outline-success {
+    color: white !important;
+    border-color:white !important;
+    box-shadow: 3px 3px 5px gray !important;
+}
+.btn-outline-success:hover{
+    background-color: purple !important;
+}
+
+
+.navbar{
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(221, 124, 6) 0%, rgb(180, 43, 19) 57%, rgb(160, 67, 10) 100%);
+
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: white !important;
+    font-size: larger !important;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active:hover{
+    color: rgb(132, 9, 3) !important;
+
+}
+
+.container-fluid{
+    gap: 10px !important;
+}
+
+.d-flex {
+    display: flex !important;
+    justify-content: center !important;
+    justify-content: space-around;
+    gap: 5px;
+}
+.movie-image{
+    border-radius: 50%;
+    background: transparent;
+}
