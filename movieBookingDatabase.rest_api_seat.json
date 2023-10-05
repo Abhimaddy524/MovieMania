@@ -1,0 +1,1276 @@
+[{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad682e"
+  },
+  "id": 3,
+  "number": "B6",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6834"
+  },
+  "id": 9,
+  "number": "E8",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6830"
+  },
+  "id": 5,
+  "number": "D3",
+  "movie_id": 2,
+  "theater_id": 2,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6837"
+  },
+  "id": 15,
+  "number": "B2",
+  "movie_id": 3,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6833"
+  },
+  "id": 8,
+  "number": "E9",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6835"
+  },
+  "id": 11,
+  "number": "A8",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6831"
+  },
+  "id": 6,
+  "number": "D8",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6832"
+  },
+  "id": 7,
+  "number": "C8",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6838"
+  },
+  "id": 16,
+  "number": "A1",
+  "movie_id": 3,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad682f"
+  },
+  "id": 4,
+  "number": "D5",
+  "movie_id": 2,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64eb1f74186b22bc7aad6836"
+  },
+  "id": 13,
+  "number": "C5",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eb202fdf56d62d0a6bcfad"
+  },
+  "id": 1,
+  "number": "F7",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eb2038df56d62d0a6bcfae"
+  },
+  "id": 2,
+  "number": "F8",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eb22abdf56d62d0a6bcfba"
+  },
+  "id": 10,
+  "number": "A2",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64eb22b0df56d62d0a6bcfbc"
+  },
+  "id": 12,
+  "number": "F2",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eb4d861aadfcc0540e726a"
+  },
+  "id": 14,
+  "number": "F5",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee0d7ec091708700325152"
+  },
+  "id": 17,
+  "number": "E3",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0d7ec091708700325153"
+  },
+  "id": 18,
+  "number": "E1",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0d7ec091708700325154"
+  },
+  "id": 19,
+  "number": "E2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0d7ec091708700325155"
+  },
+  "id": 20,
+  "number": "E4",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0d83c091708700325158"
+  },
+  "id": 23,
+  "number": "E6",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0ec7c091708700325160"
+  },
+  "id": 24,
+  "number": "F5",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee0ec7c091708700325161"
+  },
+  "id": 25,
+  "number": "F6",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee0ec7c091708700325162"
+  },
+  "id": 26,
+  "number": "E7",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee0ec9c091708700325163"
+  },
+  "id": 27,
+  "number": "E8",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee124a2a4f035209113529"
+  },
+  "id": 28,
+  "number": "E7",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee124f2a4f03520911352a"
+  },
+  "id": 29,
+  "number": "E8",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee138e2a4f035209113531"
+  },
+  "id": 30,
+  "number": "C2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee138e2a4f035209113532"
+  },
+  "id": 31,
+  "number": "C2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee138f2a4f035209113533"
+  },
+  "id": 32,
+  "number": "C2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee13912a4f035209113534"
+  },
+  "id": 33,
+  "number": "C1",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee13932a4f035209113535"
+  },
+  "id": 34,
+  "number": "C2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee13932a4f035209113536"
+  },
+  "id": 35,
+  "number": "C1",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee13962a4f035209113537"
+  },
+  "id": 36,
+  "number": "D1",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64ee13962a4f035209113538"
+  },
+  "id": 37,
+  "number": "D2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64ee13b32a4f03520911353c"
+  },
+  "id": 38,
+  "number": "F2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee13b32a4f03520911353d"
+  },
+  "id": 39,
+  "number": "F1",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee14f42a4f035209113543"
+  },
+  "id": 41,
+  "number": "F8",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee14f42a4f035209113542"
+  },
+  "id": 40,
+  "number": "F7",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee14f62a4f035209113544"
+  },
+  "id": 42,
+  "number": "F6",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee14f62a4f035209113545"
+  },
+  "id": 43,
+  "number": "F5",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee173a2a4f035209113552"
+  },
+  "id": 44,
+  "number": "A2",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64ee17da2a4f035209113556"
+  },
+  "id": 45,
+  "number": "F1",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee17dc2a4f035209113557"
+  },
+  "id": 46,
+  "number": "F2",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee1ad02a4f035209113560"
+  },
+  "id": 49,
+  "number": "C4",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "64ee1ad52a4f035209113561"
+  },
+  "id": 50,
+  "number": "D3",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64ee2f392a4f035209113567"
+  },
+  "id": 51,
+  "number": "F8",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee2f392a4f035209113568"
+  },
+  "id": 52,
+  "number": "F7",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee2f392a4f035209113569"
+  },
+  "id": 53,
+  "number": "F7",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee2f392a4f03520911356a"
+  },
+  "id": 54,
+  "number": "F8",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64ee2f3e2a4f03520911356b"
+  },
+  "id": 55,
+  "number": "D6",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64ee2f3e2a4f03520911356c"
+  },
+  "id": 56,
+  "number": "D5",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64ee30192a4f035209113577"
+  },
+  "id": 63,
+  "number": "E7",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee30192a4f035209113576"
+  },
+  "id": 62,
+  "number": "E7",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee301d2a4f035209113578"
+  },
+  "id": 64,
+  "number": "E1",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee30232a4f035209113579"
+  },
+  "id": 65,
+  "number": "E2",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64ee30242a4f03520911357a"
+  },
+  "id": 66,
+  "number": "F8",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eec7043ed3a867427e4feb"
+  },
+  "id": 67,
+  "number": "F4",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eec70a3ed3a867427e4fec"
+  },
+  "id": 68,
+  "number": "F3",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eec89d3ed3a867427e4ff0"
+  },
+  "id": 69,
+  "number": "F2",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eec8a33ed3a867427e4ff1"
+  },
+  "id": 70,
+  "number": "F1",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eecf0e3ed3a867427e4ffa"
+  },
+  "id": 71,
+  "number": "E6",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eecf163ed3a867427e4ffb"
+  },
+  "id": 72,
+  "number": "E5",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eecf313ed3a867427e5000"
+  },
+  "id": 73,
+  "number": "F7",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eecf313ed3a867427e5001"
+  },
+  "id": 74,
+  "number": "F6",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eed2d5fa184c66d9d350c1"
+  },
+  "id": 75,
+  "number": "F7",
+  "movie_id": 6,
+  "theater_id": 8,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eed2d8fa184c66d9d350c2"
+  },
+  "id": 76,
+  "number": "E8",
+  "movie_id": 6,
+  "theater_id": 8,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eed2dffa184c66d9d350c3"
+  },
+  "id": 77,
+  "number": "F7",
+  "movie_id": 6,
+  "theater_id": 8,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eed2e4fa184c66d9d350c4"
+  },
+  "id": 78,
+  "number": "E7",
+  "movie_id": 6,
+  "theater_id": 8,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eed8562a4f035209113580"
+  },
+  "id": 79,
+  "number": "D1",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64eed8572a4f035209113581"
+  },
+  "id": 80,
+  "number": "E1",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64eee9912a4f03520911358f"
+  },
+  "id": 81,
+  "number": "F3",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eee9922a4f035209113590"
+  },
+  "id": 82,
+  "number": "F4",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64eef91f2a4f035209113594"
+  },
+  "id": 83,
+  "number": "F5",
+  "movie_id": 6,
+  "theater_id": 8,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f01146320fc2c23557d420"
+  },
+  "id": 86,
+  "number": "F4",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f01146320fc2c23557d41f"
+  },
+  "id": 85,
+  "number": "F4",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f01148320fc2c23557d421"
+  },
+  "id": 87,
+  "number": "F7",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f01148320fc2c23557d422"
+  },
+  "id": 88,
+  "number": "F8",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f0175a320fc2c23557d432"
+  },
+  "id": 89,
+  "number": "E1",
+  "movie_id": 7,
+  "theater_id": 11,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f0175c320fc2c23557d433"
+  },
+  "id": 90,
+  "number": "E2",
+  "movie_id": 7,
+  "theater_id": 11,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f05696248107f45613de73"
+  },
+  "id": 91,
+  "number": "F6",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f05698248107f45613de74"
+  },
+  "id": 92,
+  "number": "F5",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64f05789248107f45613de7f"
+  },
+  "id": 93,
+  "number": "E1",
+  "movie_id": 6,
+  "theater_id": 7,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f05789248107f45613de80"
+  },
+  "id": 94,
+  "number": "E2",
+  "movie_id": 6,
+  "theater_id": 7,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f058e9248107f45613de8b"
+  },
+  "id": 95,
+  "number": "E4",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f058e9248107f45613de8c"
+  },
+  "id": 96,
+  "number": "E6",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f058e9248107f45613de8d"
+  },
+  "id": 97,
+  "number": "E3",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f058e9248107f45613de8e"
+  },
+  "id": 98,
+  "number": "E5",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "64f05c45248107f45613de9a"
+  },
+  "id": 99,
+  "number": "B2",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64f05c48248107f45613de9b"
+  },
+  "id": 100,
+  "number": "B1",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "64f09880248107f45613dea0"
+  },
+  "id": 101,
+  "number": "A4",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f0989d248107f45613dea6"
+  },
+  "id": 107,
+  "number": "A3",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f0989d248107f45613dea7"
+  },
+  "id": 108,
+  "number": "A5",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f0989d248107f45613dea8"
+  },
+  "id": 109,
+  "number": "A6",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f098a6248107f45613dea9"
+  },
+  "id": 110,
+  "number": "A2",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f098a9248107f45613deaa"
+  },
+  "id": 111,
+  "number": "A7",
+  "movie_id": 7,
+  "theater_id": 9,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64f2cb45248107f45613deb4"
+  },
+  "id": 112,
+  "number": "D7",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64f2cb45248107f45613deb5"
+  },
+  "id": 113,
+  "number": "D8",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64f5a7c6248107f45613deba"
+  },
+  "id": 114,
+  "number": "D3",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64f5a7c6248107f45613debb"
+  },
+  "id": 115,
+  "number": "D5",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64f5a7c6248107f45613debc"
+  },
+  "id": 116,
+  "number": "D5",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64f5a7c6248107f45613debd"
+  },
+  "id": 117,
+  "number": "D4",
+  "movie_id": 1,
+  "theater_id": 1,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64fadd8d248107f45613dec3"
+  },
+  "id": 118,
+  "number": "F8",
+  "movie_id": 6,
+  "theater_id": 7,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fadd8d248107f45613dec4"
+  },
+  "id": 119,
+  "number": "F7",
+  "movie_id": 6,
+  "theater_id": 7,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fb3d60248107f45613ded6"
+  },
+  "id": 120,
+  "number": "F4",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fb3d62248107f45613ded7"
+  },
+  "id": 121,
+  "number": "F3",
+  "movie_id": 2,
+  "theater_id": 3,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd86d8248107f45613dee2"
+  },
+  "id": 122,
+  "number": "F3",
+  "movie_id": 8,
+  "theater_id": 12,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd86da248107f45613dee3"
+  },
+  "id": 123,
+  "number": "F1",
+  "movie_id": 8,
+  "theater_id": 12,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd86da248107f45613dee4"
+  },
+  "id": 124,
+  "number": "F3",
+  "movie_id": 8,
+  "theater_id": 12,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd86de248107f45613dee5"
+  },
+  "id": 125,
+  "number": "F2",
+  "movie_id": 8,
+  "theater_id": 12,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd890b248107f45613def2"
+  },
+  "id": 128,
+  "number": "D3",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64fd890b248107f45613def4"
+  },
+  "id": 130,
+  "number": "D5",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64fd890d248107f45613def7"
+  },
+  "id": 133,
+  "number": "F3",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "64fd890b248107f45613def3"
+  },
+  "id": 129,
+  "number": "D4",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64fd890b248107f45613def5"
+  },
+  "id": 131,
+  "number": "D6",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "64fd890b248107f45613def6"
+  },
+  "id": 132,
+  "number": "F4",
+  "movie_id": 1,
+  "theater_id": 2,
+  "available": false,
+  "price": 400
+}]

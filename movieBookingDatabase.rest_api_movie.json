@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279d8"
+  },
+  "movie_id": 1,
+  "title": "OMG2",
+  "director": "Amit Rai",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/56/OMG_2_%E2%80%93_Oh_My_God%21_2_poster.jpg",
+  "genre": "Comedy drama",
+  "duration": 140,
+  "releasedate": "2023-08-11",
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279d9"
+  },
+  "movie_id": 2,
+  "title": "RRR",
+  "director": "S.S Rajamouli",
+  "image": "https://images.hindustantimes.com/img/2022/04/01/1600x900/RRR-Movie-Review_1648825470847_1648825479894.jpg",
+  "genre": "Historic Action",
+  "duration": 135,
+  "releasedate": "2023-10-15",
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279da"
+  },
+  "movie_id": 3,
+  "title": "Aka",
+  "director": "Morgan S. Dalibert",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF2PGOg7PlXoXFM2nMjYcC6qHBRWZQfHEMSX7yUmO0d4Dmqwjq",
+  "genre": "Action",
+  "duration": 122,
+  "releasedate": "2023-11-22",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279db"
+  },
+  "movie_id": 5,
+  "title": "Unknown: Cosmic Time Machine",
+  "director": "Shai Gal",
+  "image": "https://occ-0-58-32.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABU4fwpv2_o9CzY7AiimkEhoL1ywpl32bp9u-04FH4CEFF6KHQVn0JJZS-MURMPy3hvNc7K5Tc5AJbqYRSDYZY2GOhTgyRf_7jQFqjSDU3nhH47VSSjh6zGGc30r6qC-j18nbww.jpg?r=dfd",
+  "genre": "Action",
+  "duration": 122,
+  "releasedate": "2023-10-02",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279dc"
+  },
+  "movie_id": 6,
+  "title": "Rangabali",
+  "director": "Pawan Basamsetti",
+  "image": "https://cdn.123telugu.com/content/wp-content/uploads/2023/07/Rangabali-m.jpg",
+  "genre": "Drama",
+  "duration": 134,
+  "releasedate": "2023-10-10",
+  "language": "Telegu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279dd"
+  },
+  "movie_id": 7,
+  "title": "1920: Horrors of the Heart",
+  "director": "Krishna Bhatt",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjM0NTkxZDgtMGE0My00NWUxLTgwMDctZjVkNDBlYmRjMTA4XkEyXkFqcGdeQXVyODgzMzg2MDg@._V1_.jpg",
+  "genre": "Horror",
+  "duration": 123,
+  "releasedate": "2023-09-15",
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279de"
+  },
+  "movie_id": 8,
+  "title": "Jawan",
+  "director": "Atlee",
+  "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202206/Jawan-poster_1655912386.jpg",
+  "genre": "Action",
+  "duration": 143,
+  "releasedate": "2023-09-07",
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279df"
+  },
+  "movie_id": 9,
+  "title": "John Wick: Chapter 4",
+  "director": "Chad Stahelski",
+  "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00311714-ewdhvajezf-landscape.jpg",
+  "genre": "Action",
+  "duration": 169,
+  "releasedate": "2023-03-16",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e0"
+  },
+  "movie_id": 10,
+  "title": "Transformers: Rise of the Beasts",
+  "director": "Steven Caple Jr.",
+  "image": "https://flxt.tmsimg.com/assets/p20201199_v_h10_am.jpg",
+  "genre": "Action",
+  "duration": 127,
+  "releasedate": "2023-06-09",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e1"
+  },
+  "movie_id": 11,
+  "title": "Evil Dead Rise",
+  "director": "Lee Cronin",
+  "image": "https://www.dolby.com/siteassets/xf-site/content-detail-pages/edr_dolby.jpg",
+  "genre": "Horror",
+  "duration": 97,
+  "releasedate": "2023-03-15",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e2"
+  },
+  "movie_id": 12,
+  "title": "Ravanasura",
+  "director": "Sudheer Varma",
+  "image": "https://cdn.123telugu.com/content/wp-content/uploads/2023/04/Ravanasura-m-2.jpg",
+  "genre": "Action",
+  "duration": 140,
+  "releasedate": "2023-08-05",
+  "language": "Telegu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e3"
+  },
+  "movie_id": 13,
+  "title": "Chengiz",
+  "director": "Rajesh Ganguly",
+  "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00345849-ayfrcurjek-landscape.jpg",
+  "genre": "Action",
+  "duration": 153,
+  "releasedate": "2023-08-05",
+  "language": "Bengali"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e4"
+  },
+  "movie_id": 14,
+  "title": "Ardhangini",
+  "director": "Kaushik Ganguly",
+  "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00359220-ekpebmbvjb-landscape.jpg",
+  "genre": "Drama",
+  "duration": 135,
+  "releasedate": "2023-06-25",
+  "language": "Bengali"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e5"
+  },
+  "movie_id": 15,
+  "title": "ArdhanMaharashtra Shahirgini",
+  "director": "Kedar Shinde",
+  "image": "data:image/jpeg;base64,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",
+  "genre": "Drama",
+  "duration": 143,
+  "releasedate": "2023-08-08",
+  "language": "Marathi"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e6"
+  },
+  "movie_id": 16,
+  "title": "Heart of Stone",
+  "director": "Tom Harper",
+  "image": "https://resizing.flixster.com/Wy6ZR8yMS_TKOJDZv9V_qIr_SSc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmYzFkYzRlLWU1OWYtNGIxNC1iMWNlLThlYmYxNzc3YWZlOC5qcGc=",
+  "genre": "Mystry",
+  "duration": 123,
+  "releasedate": "2023-08-08",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e7"
+  },
+  "movie_id": 17,
+  "title": "Red Notice",
+  "director": "Rawson Marshall Thurber",
+  "image": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+  "genre": "Action Comedy",
+  "duration": 118,
+  "releasedate": "2023-10-11",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e8"
+  },
+  "movie_id": 18,
+  "title": "Thallumaala",
+  "director": "Khalid Rahman",
+  "image": "https://m.media-amazon.com/images/M/MV5BZmZkOGNhMjctZWViYS00MzE2LTk3ZmYtYjk4MjJjYjZmNWFlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+  "genre": "Action",
+  "duration": 147,
+  "releasedate": "2023-08-12",
+  "language": "Malayalam"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e9"
+  },
+  "movie_id": 19,
+  "title": "Kolai",
+  "director": "Balaji K. Kumar",
+  "image": "https://www.kerala9.com/wp-content/uploads/2023/07/IMG_3367.jpg",
+  "genre": "Drama Thriller",
+  "duration": 147,
+  "releasedate": "2023-09-21",
+  "language": "Tamil"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279ea"
+  },
+  "movie_id": 20,
+  "title": "The Monkey King",
+  "director": "Anthony Stacchi",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTMzYmJiZTgtOWFjNy00MDhjLThhNTQtNzEyYmNmYzc1MDUyXkEyXkFqcGdeQXVyMTI3NDc5MDgw._V1_.jpg",
+  "genre": "Family",
+  "duration": 97,
+  "releasedate": "2023-09-21",
+  "language": "English"
+}]
